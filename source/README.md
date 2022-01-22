@@ -10,7 +10,7 @@ these sub-directories:
 
 
 
-# NOTE 1: 
+# NOTE 1: About ... 
 * All source code for your projects should go in the `/source` directory
 * To organize your code, you might decide to create sub-directories, which is fine.
 * If you use sub-directories, plese breifly describe them

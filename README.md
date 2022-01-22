@@ -1,20 +1,17 @@
 # Final Project Repository
 
 
-Foundational Skills For Data Scienc
+INFO-201: Foundational Skills For Data Science
+Winter 2022 
 
+You will use this repository for developing your Final Project. Some parts of this 
+initial project set-up will likely be confusing. That said during lecture/lab 
+during weeks 5-8 you will learn everything you need to know. 
 
-INFO-201: 
-
-You will use this repository for developing your Final Project 
-
-
-
-All of our project code is found in this directory.  We further organize our code into 
-these sub-directories: 
+Here is a summary of the directories and files
 
 |Source Directories | Brief Description|
 |---------------| -----------------|
-|[xxx](./xxx) | Description ... 
+|[`/data `](./data) | Description ... 
 |[xxx](./xxx) | Description ... 
 

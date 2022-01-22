@@ -13,6 +13,6 @@
 
 ### Developer notes: 
 * You will use this repository for developing your Final Project. At first, some parts of this 
-initial project set-up will likely be confusing. Please don't worry, because during lecture/lab 
-during weeks 5-8 you will learn everything you need to know. 
+initial project set-up will likely be confusing. Please don't worry. During weeks 5-8, you will 
+learning everything you need to know during lectures and labs. 
 * Your first project deliverable, **P01: Project Proposal**, should be written in Markdown and stored in the file: `./docs/p01-proposal.md`

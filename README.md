@@ -3,7 +3,7 @@
 
 *P01: Project Proposal*: [Project Proposal Title](./docs/p01-proposal.md) 
 
-|Source Directories | Brief Description|
+|Project Directories | Brief Description|
 |---------------| -----------------|
 |[`/data`](./data) | All project datasets should be stored and documented here. For example, if you work with Common Separated Value (.cvs) datasets, they would stored here and documented in this directory's README.md file. Similarly, if you get data from web APIs, you would document the APIs in the directory's `README.md`.
 |[`/docs`](./docs) | All project reports and web documents will be published from this directory. This includes Mardown files (.md), R Markdown files (.Rmd),  HTML files (.html). In short, `./docs` is the root directory of the website for your project. It will also be used to store all of your design work and project documentation.

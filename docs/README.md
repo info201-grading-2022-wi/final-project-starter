@@ -13,7 +13,7 @@ as follows:
 
 
 ## DEVELOPER Note 0
-* If this is confusing, don't worry - We will cover all of the things below in lecture and/or lab.
+* If `/docs` directory or the notes below are confusing, don't worry - We will cover all of the things below in lecture and/or lab.
 * As always, ask your TA or TEAMS if you have questions. 
 
 ## DEVELOPER Note 1

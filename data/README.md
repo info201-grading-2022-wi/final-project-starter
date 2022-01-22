@@ -23,4 +23,4 @@ Sellers lists and the books that have been reviewed in the New York Times. An ov
 # NOTE:  Clear and Concise Documentation
 * Please remember your audience (prospective employers, open source colleagues, TAs, Instructors). Therefore, 
 aim for clarity and conciseness.
-* When done, be sure to delete these NOTE sections (of course)
+* When done, be sure to delete these NOTE sections (which are intended for you, of course, not your audience!)

@@ -12,6 +12,14 @@ Here is a summary of the directories and files
 
 |Source Directories | Brief Description|
 |---------------| -----------------|
-|[`/data `](./data) | Description ... 
+|[`/data`](./data) | All data for your project will be stored and documented here.
+|[`/docs`](./doc) | All project reports and web documents will be stored and published from this directory.
+|[`/source`](./source) | All for your R source code will be located in this directory.
+|Source Directories | Brief Description|
+|---------------| -----------------|
+|[`/data`](./data) | All data for your project will be stored and documented here.
+|[`/docs`](./doc) | All project reports and web documents will be stored and published from this directory.
+|[`/source`](./source) | All for your R source code will be located in this directory.
+
 |[xxx](./xxx) | Description ... 
 

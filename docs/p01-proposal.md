@@ -1,3 +1,3 @@
 # Project Proposal 
 
-Yoru project proposal goes here ... 
+Edit this file. Your project proposal goes here.

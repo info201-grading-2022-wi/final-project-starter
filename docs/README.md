@@ -12,6 +12,10 @@ as follows:
 |[Interactive Vizualizaiton](./xxx) | A brief description of your final report. 
 
 
+## Note 0
+* You don't need to focus on the  `docs` directory until the second phase of the project - P02: Exploratory Data Analysis.
+* If this is confusing, don't worry - We will cover all of the things below in lecture and/or lab.
+* As always, ask your TA or TEAMS if you have questions. 
 
 ## Note 1
 `/docs`

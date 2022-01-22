@@ -1,15 +1,7 @@
 # Final Project Repository
-
-
 **INFO-201: _Foundational Skills For Data Science_ (Winter 2022)**
 
-You will use this repository for developing your Final Project. At first, some parts of this 
-initial project set-up will likely be confusing. Please don't worry, because during lecture/lab 
-during weeks 5-8 you will learn everything you need to know. 
-
 *P01: Project Proposal*: [Project Proposal Title](./docs/p01-proposal.md) 
-
-Here is a summary of the directories and files:
 
 |Source Directories | Brief Description|
 |---------------| -----------------|
@@ -20,4 +12,7 @@ Here is a summary of the directories and files:
 | LISCENCE | This is a straigtforward software liscence that basically says "You own the copyright of your code.  Others can use your code, so long as they cite that they are doing so." If you would like to use a different liscence, that would be fine! 
 
 ### Developer notes: 
+* You will use this repository for developing your Final Project. At first, some parts of this 
+initial project set-up will likely be confusing. Please don't worry, because during lecture/lab 
+during weeks 5-8 you will learn everything you need to know. 
 * Your first project deliverable, **P01: Project Proposal**, should be written in Markdown and stored in the file: `./docs/p01-proposal.md`

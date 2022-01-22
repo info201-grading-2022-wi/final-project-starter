@@ -12,12 +12,12 @@ as follows:
 |[Interactive Vizualizaiton](./xxx) | A brief description of your final report. 
 
 
-## Note 0
+## DEVELOPER Note 0
 * You don't need to focus on the  `docs` directory until the second phase of the project - P02: Exploratory Data Analysis.
 * If this is confusing, don't worry - We will cover all of the things below in lecture and/or lab.
 * As always, ask your TA or TEAMS if you have questions. 
 
-## Note 1
+## DEVELOPER Note 1
 `/docs`
 
 * Use the `/docs` directory to organize all for your R Markdown files, which have the extension `.Rmd`.
@@ -38,14 +38,12 @@ Where:
 1. `xxx`               is your GitHub username 
 1. `index.htlm`        is the document you would like to view
 
-## Note 2: IMPORTANT: Setting up your webserver 
+## DEVELOPER Note 2: IMPORTANT: Setting up your webserver 
 1. You must make your repository *public*. To make it public: Go to your GitHub repository > Settings (top-right) > Change visibility (Danger Zone) > Make Public
 1. You must set the pages source to /docs. To do so: Got your GitHub repository > Pages (bottom-left) > Select "/docs" from the pulldown menu
 1. If you run into trouble, pleaes ask your TA or post on Teams - as usual, it is straigthforward once you know how but can be tricky to figure out the first time.
 
-## NOTE 3:  Clear and Concise Documentation
+## DEVELOPER NOTE 3:  Clear and Concise Documentation
 * Please remember your audience (prospective employers, open source colleagues, TAs, Instructors). Therefore, 
 aim for clarity and conciseness.
 * When done, be sure to delete these NOTE sections and the example CSV file (which are intended for you, of course, not your audience!)
-
-

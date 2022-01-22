@@ -32,7 +32,7 @@ as follows:
 
 Where: 
 1. `info-201a-wi22`    is the organization 
-1. `github.io`         is a webserver that you can use
+1. `github.io`         is a webserver that GitHub makes available to us
 1. `final-project`     is the repository name 
 1. `xxx`               is your GitHub username 
 1. `index.htlm`        is the document you would like to view

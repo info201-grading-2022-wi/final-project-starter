@@ -1,20 +1,23 @@
 # Final Project Repository
 
 
-INFO-201: Foundational Skills For Data Science
-Winter 2022 
+**INFO-201: _Foundational Skills For Data Science_ (Winter 2022)**
 
 You will use this repository for developing your Final Project. Some parts of this 
-initial project set-up will likely be confusing. That said during lecture/lab 
+initial project set-up will likely be confusing. That said, during lecture/lab 
 during weeks 5-8 you will learn everything you need to know. 
 
-Here is a summary of the directories and files
+*P01: Project Proposal*: [Project Proposal Title](./docs/p01-proposal.md) 
+
+Here is a summary of the directories and files:
 
 |Source Directories | Brief Description|
 |---------------| -----------------|
-|[`/data`](./data) | All data for your project will be stored and documented here. For example, if you had Common Separated Value files they would stored here.  If you are acesses web APIs for get data, you would document that in the `README.md` file of this directory.
-|[`/docs`](./docs) | All project reports and web documents will be stored and published from this directory. This includes R Markdown files (.Rmd) and HTML files. In short, `./docs` the root directory of the website for your project.
-|[`/source`](./source) | All for your R source code will be located in this directory or its sub-directories.
-| .gitignore | This  file is important. It tells git to ignore all files that are listed therein. See Freeman and Ross (2019, section 3.6).
-| LISCENCE | This is a straigtforward software liscence that basically says "You own the copyright of your code.  Others can use your code, so long as they cite that they are doing so. If you would like to use a different liscence, that would be fine! 
+|[`/data`](./data) | All project datasets should be stored and documented here. For example, if you work with Common Separated Value (.cvs) datasets, they would stored here and documented in this directory's README.md file. Similarly, if you get data from web APIs, you would document the APIs in the directory's `README.md`.
+|[`/docs`](./docs) | All project reports and web documents will be published from this directory. This includes R Markdown files (.Rmd) and HTML files (.html). In short, `./docs` is the root directory of the website for your project.
+|[`/source`](./source) | All for your R source code will be located in this directory. To organize your code you might also decide to create sub-directors.
+| .gitignore | This  file is important. It tells git to ignore all files that are listed therein. See Freeman and Ross (2019, section 3.6) for details. 
+| LISCENCE | This is a straigtforward software liscence that basically says "You own the copyright of your code.  Others can use your code, so long as they cite that they are doing so." If you would like to use a different liscence, that would be fine! 
 
+### Developer notes: 
+* Your Project Proposal should be written in Markdown and stored in the file: `./docs/p01-proposal.md`

@@ -1,6 +1,6 @@
-### Project Data Summary 
+# Project Data Summary 
 
-In our project we use the following data files and Application Programming Interfaces:
+In our project, we use the following data files and Application Programming Interfaces:
 
 #### Data files 
 |Data File Name | Brief Description|

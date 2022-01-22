@@ -9,7 +9,7 @@
 |[`/docs`](./docs) | All project reports and web documents will be published from this directory. This includes Mardown files (.md), R Markdown files (.Rmd),  HTML files (.html). In short, `./docs` is the root directory of the website for your project. It will also be used to store all of your design work and project documentation.
 |[`/source`](./source) | All for your R source code will be located in this directory. To organize your code, you might also decide to create sub-directories.
 | .gitignore | This  file is important. It tells git to ignore all files that are listed therein. See Freeman and Ross (2019, section 3.6) for details. 
-| LICENCE | This is a straigtforward software liscence that basically says "You own the copyright of your code.  Others can use your code, so long as they cite that they are doing so." You should put your names into the LICENS. If you would like to use a different liscence, that would be fine! 
+| LICENSE | This is a straigtforward software license that basically says "You own the copyright of your code.  Others can use your code, so long as they cite that they are doing so." You should put your names into the LICENSE file. If you would like to use a different liscence, that would be fine! 
 
 ### Developer notes: 
 * You will use this repository for developing your Final Project. At first, some parts of this 

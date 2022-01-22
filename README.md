@@ -3,8 +3,8 @@
 
 **INFO-201: _Foundational Skills For Data Science_ (Winter 2022)**
 
-You will use this repository for developing your Final Project. Some parts of this 
-initial project set-up will likely be confusing. That said, during lecture/lab 
+You will use this repository for developing your Final Project. At first, some parts of this 
+initial project set-up will likely be confusing. Please don't worry, because during lecture/lab 
 during weeks 5-8 you will learn everything you need to know. 
 
 *P01: Project Proposal*: [Project Proposal Title](./docs/p01-proposal.md) 

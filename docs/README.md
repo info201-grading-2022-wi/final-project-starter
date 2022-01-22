@@ -25,9 +25,7 @@ as follows:
   - Save the file in `/docs`
   - From RStudio, Knit the file (this creates an HTML file for publishing)
   - Push your `/docs` directory to your GitHub repository
-  - Your `\docs` directory can be viewed in a web browser by using an URL like this: 
-
-`https://info-201a-wi22.github.io/final-project/xxx/index.html`
+* Once you push your `/docs` directory, you can view your reports in a web browser by using an URL like this: `https://info-201a-wi22.github.io/final-project/xxx/index.html`
 
 Where: 
 1. `info-201a-wi22`    is the organization 

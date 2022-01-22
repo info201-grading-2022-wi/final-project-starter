@@ -42,7 +42,7 @@ Where:
 1. You must set the pages source to /docs. To do so: Got your GitHub repository > Pages (bottom-left) > Select "/docs" from the pulldown menu
 1. If you run into trouble, pleaes ask your TA or post on Teams - as usual, it is straigthforward once you know how but can be tricky to figure out the first time.
 
-## DEVELOPER NOTE 3:  Clear and Concise Documentation
+## DEVELOPER Note 3:  Clear and Concise Documentation
 * Please remember your audience (prospective employers, open source colleagues, TAs, Instructors). Therefore, 
 aim for clarity and conciseness.
 * When done, be sure to delete these NOTE sections and the example CSV file (which are intended for you, of course, not your audience!)

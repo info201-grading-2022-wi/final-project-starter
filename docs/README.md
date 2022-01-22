@@ -20,7 +20,7 @@ as follows:
 `/docs`
 
 * Use the `/docs` directory to organize all for your R Markdown files, which have the extension `.Rmd`.
-* Your R Markdown files are used to create reports that can be published on the web as HTML files.
+* Your R Markdown files are used to create reports that can be published on the web as HTML files.  That is, R Markdown (.Rmd) --> web page (.html) --> Published on GitHub in your `/docs` directory.
 * This is the basic workflow:
   - Go to RStudio
   - File > New file > R Markdown

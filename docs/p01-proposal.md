@@ -8,7 +8,9 @@ The project, including **P01: Project Proposal**, is not so much about collectin
 
 **Please note**: We understand this is hard project. Also, we understand that your ideas about the project might not completely worked out and are developing. So, we ask that you do the best you can. You will get constructive feedback from your TA and we are confident that you'll succeed! 
 
-Here is some specific information that we expect you to have in the project proposal. You should format your report using Markdown, seeking a professional presentation - clear, concise, interesting, and free of spelling and grammatical errors. Use headings, bullet lists, and tables effectively.
+Here is some specific information that we expect you to have in the project proposal. You should format your report using Markdown, seeking a professional presentation - clear, concise, interesting, and free of spelling and grammatical errors. 
+
+As needed, the suggested headings below can be revised and new headings and sub-headings can be added. Please use headings, bullet lists,  tables effectively, and other markdown code effectively - seek a professional presentaiton. 
 
 |Element | Brief Description|
 |---------------| -----------------|
@@ -22,12 +24,12 @@ Here is some specific information that we expect you to have in the project prop
 |1.0 Introduction | Briefly introduce y0ur project |
 |2.0 Design Situation | Use short sub-sections to describe your topic and the setting (that is, the socio-technical situation), including project framing, human values, direct and indirect stakeholders, possible harms and benefits. See Design Brief, section B.3. You *must* inlcude three citations to related work (URLs or research papers).  |
 |3.0 Research questions | 3-5 research questions. What motivates the qustions? Why are they important? See Deign Brief, section B.4.|
-|4.0 The Dataset | Major section |
+|4.0 The Dataset | |
 |Size and compolexity | Describe the size and complexity of the dataset that you plan to use. See Design Brief, section B.5.| 
 |Data provenance | Describe the origins of the data. See Design Brief, section B.6.|
 |5.0 Expected implications | If you answer your research questions, briefly describe what implications for technologies, designers, and policymakers might be made.|
 |6.0 Limitations | What limitations might you need to address? Briefly discuss|
-|Acknowledgements | Is there anyone you would like to thank? A librarian who helped you with your research? A Teaching Assistant? A friend who helped you find your data? |
-|References | Include citations to your three references.|
+|Acknowledgements | Is there anyone you would like to thank? A librarian who helped you with your research? A Teaching Assistant? A friend who helped you find your data? Say thank you in this section.|
+|References | Include citations to your three references. See 1.0 Introduction. |
 |Appendix A: Questions| Do you have questions for your TA or instructor?  Include them here.|
 

@@ -6,21 +6,20 @@
 
 * **Where is the project brief?**  [`../instructions/project-design-brief.pdf`](../instructions/project-design-brief.pdf).
 * **Making Progress**: We understand this work might be difficult. Also, we understand that your project ideas might not be completely worked out. So, we ask that you do the best you can. You will receive specific guidance from your TA and constructive feedback. We are confident that you will succeed! 
-* **What should be included in the proposal?** Every proposal will be different. It depends on your particular project.  That said, in the table below you will find the expected report elements.  It is important that you engage with and to respond the the Design Brief. 
+* **What should be included in the proposal?** Every proposal will be different. It depends on your particular project.  That said, in the table below you will find the expected report elements.  It is important that you engage with and respond to the the Design Brief. 
 * **How should the proposal be formatted?** You should format your proposal using Markdown in this file. You should aim for a professional presentation - clear, concise, interesting, and free of spelling and grammatical errors. 
 * **What headings should we use?** As needed, the suggested headings below can be revised and new headings and sub-headings can be added. Please use headings, bullet lists,  tables effectively, and other markdown code effectively - seek a professional presentation. 
-* **Finishing up.** When you are finished writing and formatting your proposal, be sure to save these developer notes some place (they might useful
-* in the future). Then, delete these developer notes.
+* **Finishing up.** When you are finished writing and formatting your proposal, save these developer notes(they might useful in the future). Then, delete them.
 * **Questions?** If you have questions, please ask your TA or post on Teams.
 
 |Element | Brief Description|
 |---------------| --------------
 |Code name | Give your project a _code name_, a short, evocative name for efficiently referring to your project. Your code name does not change! Examples: _Jazz-4_, _Rocking Fish_, etc. | 
-|Project title| Give your project a concise, interesting title that summarizes the entirety of your project. (Your title can change.) |
+|Project title| Give your project a concise, interesting title that summarizes the entirety of your project. (Your title can change on subsequent deliverables.) |
 |Authors | Names of your team members and contact information (email addresses). |
 |Affiliation |  INFO-201: Technical Foundations of Informatics - The Information School - University of Washington |
 |Date | Winter 2022|
-|Abstract | Two sentences that summarize your project. |
+|Abstract | No more than three sentences that summarize your project. Focus on the very most important aspects.  (e.g., "Our main question is .... This question is important because ... To address the question, we will ..." or "We are concerned with ..., becuase .... To address this concern, we plan to ...." or "Consider that ....  This is important because .... Accordingly, we plan to ..." )  |
 |Keywords | 3-5 keywords that summarize your project.  (e.g., "Keywords: human physiology; bicycle exercise; elderly; power and heart rate times-series data") |
 |1.0 Introduction | Briefly introduce your project. (about 150 words) |
 |2.0 Design Situation | Use short sub-sections to describe your topic and the setting (that is, the sociotechnical situation), including project framing, human values, direct and indirect stakeholders, possible harms and benefits. See the Design Brief, section B.3. **Note**: You *must* include three citations to related work (URLs to similar work, high quality articles from the popular press, reseach papers, etc. ).  (about 400 words) |

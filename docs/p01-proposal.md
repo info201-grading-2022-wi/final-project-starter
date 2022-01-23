@@ -4,7 +4,7 @@
 
 ## Developer Notes
 
-* **Where is the project brief?** The project brief is here [`../instructions/project-design-brief.pdf`](../instructions/project-design-brief.pdf).
+* **Where is the project brief?**  [`../instructions/project-design-brief.pdf`](../instructions/project-design-brief.pdf).
 * **Making Progress**: We understand this work might be difficult. Also, we understand that your ideas about the project might not be completely worked out and tht your ideas and plans are developing. So, we ask that you do the best you can. You will receive constructive feedback from your TA and we are confident that you will succeed! 
 * **What should be included in the proposal?** Every proposal will be different.  It depends on your particular project.  That said, in the table below you will find the expected report elements.
 * **How shold the proposal be formatted?** You should format your proposal using Markdown in this file. You should aim for a professional presentation - clear, concise, interesting, and free of spelling and grammatical errors. 

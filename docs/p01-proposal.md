@@ -10,7 +10,7 @@ The project, including **P01: Project Proposal**, is not so much about collectin
 
 Here is some specific information that we expect you to have in the project proposal. You should format your report using Markdown, seeking a professional presentation - clear, concise, interesting, and free of spelling and grammatical errors. 
 
-As needed, the suggested headings below can be revised and new headings and sub-headings can be added. Please use headings, bullet lists,  tables effectively, and other markdown code effectively - seek a professional presentaiton. 
+As needed, the suggested headings below can be revised and new headings and sub-headings can be added. Please use headings, bullet lists,  tables effectively, and other markdown code effectively - seek a professional presentation. 
 
 |Element | Brief Description|
 |---------------| -----------------|
@@ -21,7 +21,7 @@ As needed, the suggested headings below can be revised and new headings and sub-
 |Date | Winter 2022|
 |Abstract | Two sentences that summarize your project. |
 |Keywords | 3-5 keywords that summarize your project.|
-|1.0 Introduction | Briefly introduce your project |
+|1.0 Introduction | Briefly introduce your project. |
 |2.0 Design Situation | Use short sub-sections to describe your topic and the setting (that is, the socio-technical situation), including project framing, human values, direct and indirect stakeholders, possible harms and benefits. See Design Brief, section B.3. You *must* inlcude three citations to related work (URLs or research papers).  |
 |3.0 Research questions | 3-5 research questions. What motivates the qustions? Why are they important? See Deign Brief, section B.4.|
 |4.0 The Dataset | Use short sub-sections for: (1) _Size and compolexity_ Describe the size and complexity of the dataset that you plan to use. See Design Brief, section B.5. (2) _Data provenance_ : Describe the origins of the data. See Design Brief, section B.6.|

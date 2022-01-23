@@ -21,7 +21,7 @@ As needed, the suggested headings below can be revised and new headings and sub-
 |Date | Winter 2022|
 |Abstract | Two sentences that summarize your project. |
 |Keywords | 3-5 keywords that summarize your project.|
-|1.0 Introduction | Briefly introduce y0ur project |
+|1.0 Introduction | Briefly introduce your project |
 |2.0 Design Situation | Use short sub-sections to describe your topic and the setting (that is, the socio-technical situation), including project framing, human values, direct and indirect stakeholders, possible harms and benefits. See Design Brief, section B.3. You *must* inlcude three citations to related work (URLs or research papers).  |
 |3.0 Research questions | 3-5 research questions. What motivates the qustions? Why are they important? See Deign Brief, section B.4.|
 |4.0 The Dataset | |

@@ -14,7 +14,7 @@ Here is some specific information that we expect you to have in the project prop
 |---------------| -----------------|
 |Code name | Give your project a _code name_, a short, evocative name for efficiently referring to your project.| 
 |Project title| Give your project a concise, interesting title that summarizes your project. |
-|Authors | Names of your team members and optionally contact information (email addresses) |
+|Authors | Names of your team members and contact information (email addresses). |
 |Affiliation |  Info-201: Technical Foundations of Informatics - The Information School - University of Washington |
 |Date | Winter 2022|
 |1.0 Introduction | Major section|

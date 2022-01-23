@@ -4,13 +4,14 @@
 
 ## Developer Notes
 
-* The project, including **P01: Project Proposal**, is not so much about collecting specific points; rather, we ask you to be a **responsible innovator**, **coder**, and **critical thinker**. We can't tell you precisely how to take on these roles - but we know that you'll learn to do so. 
-* **Please note**: We understand this work might be difficult. Also, we understand that your ideas about the project might not be completely worked out and tht your ideas and plans are developing. So, we ask that you do the best you can. You will receive constructive feedback from your TA and we are confident that you will succeed! 
-* Below is some specific information that we expect you to have in the project proposal. 
-* You should format your report using Markdown, seeking a professional presentation - clear, concise, interesting, and free of spelling and grammatical errors. 
-* As needed, the suggested headings below can be revised and new headings and sub-headings can be added. Please use headings, bullet lists,  tables effectively, and other markdown code effectively - seek a professional presentation. 
-* When you are finished writing and formatting your proposal, be sure to delete these developer notes.
-* If you have questions, please ask your TA or post on Teams.
+* **Where is the project brief?** The project brief is here [`../instructions/project-design-brief.pdf`](../instructions/project-design-brief.pdf).
+* **Making Progress**: We understand this work might be difficult. Also, we understand that your ideas about the project might not be completely worked out and tht your ideas and plans are developing. So, we ask that you do the best you can. You will receive constructive feedback from your TA and we are confident that you will succeed! 
+* **What should be included in the proposal?** Every proposal will be different.  It depends on your particular project.  That said, in the table below you will find the expected report elements.
+* **How shold the proposal be formatted?** You should format your proposal using Markdown in this file. You should aim for a professional presentation - clear, concise, interesting, and free of spelling and grammatical errors. 
+* **What headings should we use?** As needed, the suggested headings below can be revised and new headings and sub-headings can be added. Please use headings, bullet lists,  tables effectively, and other markdown code effectively - seek a professional presentation. 
+* **Finishing up.** When you are finished writing and formatting your proposal, be sure to save these developer notes some place (they might useful
+* in the future) and delete these developer notes.
+* **Questions?** If you have questions, please ask your TA or post on Teams.
 
 |Element | Brief Description|
 |---------------| -----------------|

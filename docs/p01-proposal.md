@@ -23,11 +23,11 @@
 |Abstract | Two sentences that summarize your project. |
 |Keywords | 3-5 keywords that summarize your project.|
 |1.0 Introduction | Briefly introduce your project. |
-|2.0 Design Situation | Use short sub-sections to describe your topic and the setting (that is, the socio-technical situation), including project framing, human values, direct and indirect stakeholders, possible harms and benefits. See the Design Brief, section B.3. You *must* include three citations to related work (URLs or research papers).  |
+|2.0 Design Situation | Use short sub-sections to describe your topic and the setting (that is, the sociotechnical situation), including project framing, human values, direct and indirect stakeholders, possible harms and benefits. See the Design Brief, section B.3. **Note**: You *must* include three citations to related work (URLs to similar work, high quality articles from the popular press, reseach papers, etc. ).  |
 |3.0 Research questions | 3-5 research questions. What motivates the questions? Why are they important? See the Deign Brief, section B.4.|
-|4.0 The Dataset | Use short sub-sections for: (1) _Size and complexity_ Describe the size and complexity of the dataset that you plan to use. See Design Brief, section B.5. (2) _Data provenance_ : Describe the origins of the data. See the Design Brief, section B.6.|
-|5.0 Expected Implications | If you answer your research questions, briefly describe what implications for technologies, designers, and policymakers might be made.|
+|4.0 The Dataset | See Design Brief, setions B.5 (_Size and complexity_) and B.6 (_Data provenance_). Use short sub-sections for describing the size and complexity of the dataset and for describing the origins fo the data.|
+|5.0 Expected Implications | Assuming you answer your research questions, briefly describe the expected or possible implications for technologists, designers, and policymakers.|
 |6.0 Limitations | What limitations might you need to address? Briefly discuss.|
 |Acknowledgements | Is there anyone you would like to thank? A librarian who helped you with your research? A Teaching Assistant? A friend who helped you find your data? Say thank you in this section.|
-|References | Include citations to your three references. See 1.0 Introduction. |
+|References | Include citations to your three references. See 2.0 Introduction. |
 |Appendix A: Questions| Do you have questions for your TA or instructor?  Include them here.|

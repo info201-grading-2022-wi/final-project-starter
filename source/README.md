@@ -13,7 +13,7 @@ these sub-directories (TODO: Update/Delete)
 # DEVELOPER NOTE 1: About ... 
 * All source code for your projects should go in the `/source` directory
 * To organize your code, you might decide to create sub-directories, which is fine.
-* If you use sub-directories, plese breifly describe them
+* If you use sub-directories, plese briefly describe them
 
 # DEVELOPER NOTE 2:  Clear and Concise Documentation
 * Please remember your audience (prospective employers, open source colleagues, TAs, Instructors). Therefore, 

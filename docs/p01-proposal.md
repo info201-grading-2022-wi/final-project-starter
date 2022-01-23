@@ -17,14 +17,16 @@ Here is some specific information that we expect you to have in the project prop
 |Authors | Names of your team members and contact information (email addresses). |
 |Affiliation |  Info-201: Technical Foundations of Informatics - The Information School - University of Washington |
 |Date | Winter 2022|
-|1.0 Introduction | Major section|
-|Topic of focus / Problem  domain| Use short sub-sections to describe your topic and the setting (that is, the socio-technical situation), including project framing, huamn values, direct and indirect stakeholders, harms and benefits. See Design Brief, section B.3. You *must* inlcude three citations to related work (URLs or research papers).  |
-|2.0 Research questions | 3-5 research questions. What motivates the qustions? Why are they important? See Deign Brief, section B.4.|
-|3.0 The dataset | Major section |
+|Abstract | Two sentences that summarize your project. |
+|Keywords | 3-5 keywords that summarize your project.|
+|1.0 Introduction | Briefly introduce y0ur project |
+|2.0 Design Situation | Use short sub-sections to describe your topic and the setting (that is, the socio-technical situation), including project framing, human values, direct and indirect stakeholders, possible harms and benefits. See Design Brief, section B.3. You *must* inlcude three citations to related work (URLs or research papers).  |
+|3.0 Research questions | 3-5 research questions. What motivates the qustions? Why are they important? See Deign Brief, section B.4.|
+|4.0 The Dataset | Major section |
 |Size and compolexity | Describe the size and complexity of the dataset that you plan to use. See Design Brief, section B.5.| 
 |Data provenance | Describe the origins of the data. See Design Brief, section B.6.|
-|4.0 Expected implications | If you answer your research questions, briefly describe what implications for technologies, designers, and policymakers might be made.
-|5.0 Limitations | What limitations might you need to address? Briefly discuss|
+|5.0 Expected implications | If you answer your research questions, briefly describe what implications for technologies, designers, and policymakers might be made.|
+|6.0 Limitations | What limitations might you need to address? Briefly discuss|
 |Acknowledgements | Is there anyone you would like to thank? A librarian who helped you with your research? A Teaching Assistant? A friend who helped you find your data? |
 |References | Include citations to your three references.|
 |Appendix A: Questions| Do you have questions for your TA or instructor?  Include them here.|

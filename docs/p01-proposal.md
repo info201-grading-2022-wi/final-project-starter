@@ -22,7 +22,7 @@
 |Abstract | No more than three sentences that summarize your project. Focus on the very most important aspects. For example: 
 * "Our main question is .... This question is important because ... To address the question, we will ..." 
 * "We are concerned with ..., becuase .... To address this concern, we plan to ...." 
-* "Consider that ....  This is important because .... Accordingly, we plan to ..." )  |
+* "Consider that ....  This is important because .... Accordingly, we plan to ..."   |
 |Keywords | 3-5 keywords that summarize your project.  (e.g., "Keywords: human physiology; bicycle exercise; elderly; power and heart rate times-series data") |
 |1.0 Introduction | Briefly introduce your project. (about 150 words) |
 |2.0 Design Situation | Use short sub-sections to describe your topic and the setting (that is, the sociotechnical situation), including project framing, human values, direct and indirect stakeholders, possible harms and benefits. See the Design Brief, section B.3. **Note**: You *must* include three citations to related work (URLs to similar work, high quality articles from the popular press, reseach papers, etc. ).  (about 400 words) |

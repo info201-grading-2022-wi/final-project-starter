@@ -3,6 +3,7 @@
 
 *P01: Project Proposal*: [Project Proposal Title - Edit Me!](./docs/p01-proposal.md) 
 
+
 |Project Directories | Brief Description|
 |---------------| -----------------|
 |[`/data`](./data) | All project datasets should be stored and documented here. For example, if you work with Common Separated Value (.cvs) datasets, they would stored here and documented in this directory's README.md file. Similarly, if you get data from web APIs, you would document the APIs in the directory's `README.md`.
@@ -16,5 +17,7 @@
 * You will use this repository for developing your Final Project. At first, some parts of this 
 initial project set-up will likely be confusing. Please don't worry. During weeks 5-8, you will 
 learning everything you need to know during lectures and labs. 
+* You will add to this basic directory structure over the course of your project.  
 * Your first project deliverable, **P01: Project Proposal**, should be written in Markdown and stored in the file: `./docs/p01-proposal.md`
 * If you need to, you may add additional directories, README.md files, and other files.
+* 

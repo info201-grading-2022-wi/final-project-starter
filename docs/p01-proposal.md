@@ -17,7 +17,7 @@ As needed, the suggested headings below can be revised and new headings and sub-
 |Code name | Give your project a _code name_, a short, evocative name for efficiently referring to your project. (Your code name does not change!)| 
 |Project title| Give your project a concise, interesting title that summarizes the entirity of your project. (Your title can change.) |
 |Authors | Names of your team members and contact information (email addresses). |
-|Affiliation |  Info-201: Technical Foundations of Informatics - The Information School - University of Washington |
+|Affiliation |  INFO-201: Technical Foundations of Informatics - The Information School - University of Washington |
 |Date | Winter 2022|
 |Abstract | Two sentences that summarize your project. |
 |Keywords | 3-5 keywords that summarize your project.|

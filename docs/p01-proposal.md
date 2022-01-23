@@ -5,9 +5,9 @@
 ## Developer Notes
 
 * **Where is the project brief?**  [`../instructions/project-design-brief.pdf`](../instructions/project-design-brief.pdf).
-* **Making Progress**: We understand this work might be difficult. Also, we understand that your ideas about the project might not be completely worked out and tht your ideas and plans are developing. So, we ask that you do the best you can. You will receive specefic guidance from your TA and constructive feedback. We are confident that you will succeed! 
-* **What should be included in the proposal?** Every proposal will be different.  It depends on your particular project.  That said, in the table below you will find the expected report elements.  It is important that you engage with and to respond the the Design Brief. 
-* **How shold the proposal be formatted?** You should format your proposal using Markdown in this file. You should aim for a professional presentation - clear, concise, interesting, and free of spelling and grammatical errors. 
+* **Making Progress**: We understand this work might be difficult. Also, we understand that your project ideas might not be completely worked out. So, we ask that you do the best you can. You will receive specefic guidance from your TA and constructive feedback. We are confident that you will succeed! 
+* **What should be included in the proposal?** Every proposal will be different. It depends on your particular project.  That said, in the table below you will find the expected report elements.  It is important that you engage with and to respond the the Design Brief. 
+* **How should the proposal be formatted?** You should format your proposal using Markdown in this file. You should aim for a professional presentation - clear, concise, interesting, and free of spelling and grammatical errors. 
 * **What headings should we use?** As needed, the suggested headings below can be revised and new headings and sub-headings can be added. Please use headings, bullet lists,  tables effectively, and other markdown code effectively - seek a professional presentation. 
 * **Finishing up.** When you are finished writing and formatting your proposal, be sure to save these developer notes some place (they might useful
 * in the future). Then, delete these developer notes.

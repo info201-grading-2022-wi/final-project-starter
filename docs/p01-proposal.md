@@ -12,8 +12,8 @@ Here is some specific information that we expect you to have in the project prop
 
 |Element | Brief Description|
 |---------------| -----------------|
-|Code name | Give your project a _code name_, a short, evocative name for efficiently referring to your project.| 
-|Project title| Give your project a concise, interesting title that summarizes the entirity of your project. |
+|Code name | Give your project a _code name_, a short, evocative name for efficiently referring to your project. (Your code name does not change!)| 
+|Project title| Give your project a concise, interesting title that summarizes the entirity of your project. (Your title can change.) |
 |Authors | Names of your team members and contact information (email addresses). |
 |Affiliation |  Info-201: Technical Foundations of Informatics - The Information School - University of Washington |
 |Date | Winter 2022|
@@ -26,13 +26,6 @@ Here is some specific information that we expect you to have in the project prop
 |4.0 Expected implications | If you answer your research questions, briefly describe what implications for technologies, designers, and policymakers might be made.
 |5.0 Limitations | What limitations might you need to address? Briefly discuss|
 |Acknowledgements | Is there anyone you would like to thank? A librarian who helped you with your research? A Teaching Assistant? A friend who helped you find your data? |
-|References | Include 
-
-
-6.0 Conclusion You should summarize: (1) The strengths and weaknesses of the project; (2) The
-main lessons that you learned; and (3) The future work that you or someone else
-might pursue.
-Acknowledgements Use this optional element to acknowledge anyone who substantially helped you
-with your project.
-References Please include all references at the end of the your report.
+|References | Include citations to your three references.|
+|Appendix A: Questions| Do you have questions for your TA or instructor?  Include them here.|
 

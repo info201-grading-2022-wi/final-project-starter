@@ -5,10 +5,11 @@
 ## Developer Notes
 
 * The project, including **P01: Project Proposal**, is not so much about collecting specific points; rather, we ask you to be a **responsible innovator**, **coder**, and **critical thinker**. We can't tell you precisely how to take on these roles - but we know that you'll learn to do so. 
-* **Please note**: We understand this is hard project. Also, we understand that your ideas about the project might not completely worked out and are developing. So, we ask that you do the best you can. You will get constructive feedback from your TA and we are confident that you'll succeed! 
+* **Please note**: We understand this work might be difficult. Also, we understand that your ideas about the project might not be completely worked out and tht your ideas and plans are developing. So, we ask that you do the best you can. You will receive constructive feedback from your TA and we are confident that you will succeed! 
 * Below is some specific information that we expect you to have in the project proposal. 
 * You should format your report using Markdown, seeking a professional presentation - clear, concise, interesting, and free of spelling and grammatical errors. 
 * As needed, the suggested headings below can be revised and new headings and sub-headings can be added. Please use headings, bullet lists,  tables effectively, and other markdown code effectively - seek a professional presentation. 
+* When you are finished writing and formatting your proposal, be sure to delete these developer notes.
 * If you have questions, please ask your TA or post on Teams.
 
 |Element | Brief Description|
@@ -29,4 +30,3 @@
 |Acknowledgements | Is there anyone you would like to thank? A librarian who helped you with your research? A Teaching Assistant? A friend who helped you find your data? Say thank you in this section.|
 |References | Include citations to your three references. See 1.0 Introduction. |
 |Appendix A: Questions| Do you have questions for your TA or instructor?  Include them here.|
-

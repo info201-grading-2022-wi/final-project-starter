@@ -15,25 +15,23 @@ Here is some specific information that we expect you to have in the project prop
 |Code name | Give your project a _code name_, a short, evocative name for efficiently referring to your project.| 
 |Project title| Give your project a concise, interesting title that summarizes your project. |
 |Authors | Names of your team members and optionally contact information (email addresses) |
-|Affiliation |  Info-201: Technical Foundations of Informatics\ The Information School\ 
-University of Washington\ 
-Autumn 2019|
-|
-1.0 Introduction
-Problem situation
-Describe the general problem situation, by answering these and similar questions:
-What is the setting of the problem? Who are the direct and indirect stakeholders
-(see the Envisioning Cards). What values and tensions are in play for societies and
-individual people? What are the general issues at stake? What policy and ethical
-elements bear on the problem? What other work has been done in this area? How
-are building on this work? Why do you care about this problem and what motivates
-you to work on it?
-You employ the Envisioning Cards to address these and similar questions about the
-social implications and the ethical considerations of your work.
-What is the problem? Given the a description of the problem situation, what is the specific problem? Aim
-for a clear, concise, and interesting statement of the problem.
-Why does it matter? Why does the problem matter? Why is it important? Who cares about it?
-How will it be addressed? In general, how will you address the problem? In general, what kinds of data
-wrangling and information visualizations will be used? In general, who is the
-audience for your work?
+|Affiliation |  Info-201: Technical Foundations of Informatics - The Information School - 
+University of Washington |
+| Date | Winter 2022|
+|1.0 Introduction | Major section|
+|Topic of focus| Describe your topic and the setting (socio-technical situation), including project framing, huamn values, direct and indirect stakeholders, harms and benefits|
+|Research questions | 3-5 research questions. What motivates the qustions? Why are they important?|
+
+
+3.0 The data set(s) You describe the original data set, answering such questions as: (1) Who created it?
+(2) Why was it created? (3) Where did you access it? (4) What represents an
+“observation”? (5) What “variables” does each observation have? (6) How big is the
+data set? If it is a sub-set of a larger data set, how was the sub-set created? (7) If the
+data set represents people, who has been included and who has been excluded?
+You employ the envisioning cards to clarify the strengths and weaknesses of the
+data set(s).
+Page 4 of 6
+You describe the strengths and the weaknesses of the data set.
+Data wrangling. You discuss how you organized and cleaned your data. How did
+you reshape your data? How are missing values handled?
 2.0 Research questions Given the

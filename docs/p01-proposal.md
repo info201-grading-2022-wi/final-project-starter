@@ -15,23 +15,24 @@ Here is some specific information that we expect you to have in the project prop
 |Code name | Give your project a _code name_, a short, evocative name for efficiently referring to your project.| 
 |Project title| Give your project a concise, interesting title that summarizes your project. |
 |Authors | Names of your team members and optionally contact information (email addresses) |
-|Affiliation |  Info-201: Technical Foundations of Informatics - The Information School - 
-University of Washington |
-| Date | Winter 2022|
+|Affiliation |  Info-201: Technical Foundations of Informatics - The Information School - University of Washington |
+|Date | Winter 2022|
 |1.0 Introduction | Major section|
-|Topic of focus| Describe your topic and the setting (socio-technical situation), including project framing, huamn values, direct and indirect stakeholders, harms and benefits|
-|Research questions | 3-5 research questions. What motivates the qustions? Why are they important?|
+|Topic of focus / Problem  domain| Use short sub-sections to describe your topic and the setting (that is, the socio-technical situation), including project framing, huamn values, direct and indirect stakeholders, harms and benefits. See Design Brief, section B.3. You *must* inlcude three citations to related work (URLs or research papers).  |
+|2.0 Research questions | 3-5 research questions. What motivates the qustions? Why are they important? See Deign Brief, section B.4.|
+|3.0 The dataset | Major section |
+|Size and compolexity | Describe the size and complexity of the dataset that you plan to use. See Design Brief, section B.5.| 
+|Data provenance | Describe the origins of the data. See Design Brief, section B.6.|
+|4.0 Expected implications | If you answer your research questions, briefly describe what implications for technologies, designers, and policymakers might be made.
+|5.0 Limitations | What limitations might you need to address? Briefly discuss|
+|Acknowledgements | Is there anyone you would like to thank? A librarian who helped you with your research? A Teaching Assistant? A friend who helped you find your data? |
+|References | Include 
 
 
-3.0 The data set(s) You describe the original data set, answering such questions as: (1) Who created it?
-(2) Why was it created? (3) Where did you access it? (4) What represents an
-“observation”? (5) What “variables” does each observation have? (6) How big is the
-data set? If it is a sub-set of a larger data set, how was the sub-set created? (7) If the
-data set represents people, who has been included and who has been excluded?
-You employ the envisioning cards to clarify the strengths and weaknesses of the
-data set(s).
-Page 4 of 6
-You describe the strengths and the weaknesses of the data set.
-Data wrangling. You discuss how you organized and cleaned your data. How did
-you reshape your data? How are missing values handled?
-2.0 Research questions Given the
+6.0 Conclusion You should summarize: (1) The strengths and weaknesses of the project; (2) The
+main lessons that you learned; and (3) The future work that you or someone else
+might pursue.
+Acknowledgements Use this optional element to acknowledge anyone who substantially helped you
+with your project.
+References Please include all references at the end of the your report.
+

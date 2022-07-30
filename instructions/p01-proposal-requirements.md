@@ -19,11 +19,7 @@
 |Authors | Names of your team members and contact information (email addresses). |
 |Affiliation |  INFO-201: Technical Foundations of Informatics - The Information School - University of Washington |
 |Date | Winter 2022|
-|Abstract | Write a short abstract of three sentences. Your abstract should summarize your entire project, but only the very most important aspects. Here are three example of how you might structure your abstrace: 
-
-1. "Our main question is .... This question is important because .... To address the question, we will ...."
-1. "We are concerned with ..., becuase .... To address this concern, we plan to ...."
-1.  "Consider that ....  This is important because .... Accordingly, we plan to ...."   |
+|Abstract | Write a short abstract of three sentences. Your abstract should summarize your entire project, but only the very most important aspects. Here are two examples of how you might structure your abstract: **(1)** "Our main question is .... This question is important because .... To address the question, we will ...." and **(2)** "We are concerned with ..., because .... To address this concern, we plan to ...." |
 |Keywords | 3-5 keywords that summarize your project.  (e.g., "Keywords: human physiology; bicycle exercise; elderly; power and heart rate times-series data") |
 |1.0 Introduction | Briefly introduce your project. (about 150 words) |
 |2.0 Problem domain | Use short sub-sections to describe your topic and the setting (that is, the sociotechnical situation), including project framing, human values, direct and indirect stakeholders, possible harms and benefits. See the Design Brief, section B.3. **Note**: You *must* include three citations to related work (URLs to similar work, high quality articles from the popular press, reseach papers, etc. ). You may find it helpful to include a figure.  (about 400 words) |

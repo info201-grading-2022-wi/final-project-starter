@@ -28,5 +28,5 @@
 |5.0 Expected Implications | Assuming you answer your research questions, briefly describe the expected or possible implications for technologists, designers, and policymakers. (About 150 words.) |
 |6.0 Limitations | What limitations might you need to address? Briefly discuss. (About 150 words.) |
 |Acknowledgements | Is there anyone you would like to thank? A librarian who helped you with your research? A Teaching Assistant? A friend who helped you find your data? Say thank you in this section.|
-|References | Include citations to your three references. See 2.0 Introduction. If you like, you can cite more than three references.  Please use a standard citation style of your choice.  See [Citing Sources](https://guides.lib.uw.edu/research/citations) at the UW Library. |
+|References | Include your three or more research citations here. Also, include citations to your data files. Please use a standard citation style of your choice.  See [Citing Sources](https://guides.lib.uw.edu/research/citations) at the UW Library. |
 |Appendix A: Questions| Do you have questions for your TA or instructor?  Include them here.|

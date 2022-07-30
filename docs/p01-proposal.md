@@ -2,6 +2,12 @@
 
 **TODO**: Edit this file. Your project proposal goes here. Save and delete the developer notes when done.
 
+For what to do, read: 
+
+* [`../instructions/project-design-brief.pdf`](Design Brief)
+* [`../instructions/p`](Project Proposal Requirements)
+
+
 ## Developer Notes
 
 * **Where is the project brief?**  [`../instructions/project-design-brief.pdf`](../instructions/project-design-brief.pdf).

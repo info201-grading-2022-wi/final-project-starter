@@ -14,9 +14,7 @@
 | LICENSE | This is a straigtforward software license that basically says "You own the copyright of your code.  Others can use your code, so long as they cite that they are doing so." You should put your names into the LICENSE file. If you would like to use a different license, that would be fine! |
 
 ### Developer notes: 
-* You will use this repository for developing your Final Project. At first, some parts of this 
-initial project set-up will likely be confusing. Please don't worry. During weeks 5-8, you will 
-learning everything you need to know during lectures and labs. 
-* You will add to this basic directory structure over the course of your project.  
+* You will use this repository for developing your Final Project. 
+* You will customized and add to this basic directory structure over the course of your project.  
 * Your first project deliverable, **P01: Project Proposal**, should be written in Markdown and stored in the file: `./docs/p01-proposal.md`
 * If you need to, you may add additional directories, README.md files, and other files.

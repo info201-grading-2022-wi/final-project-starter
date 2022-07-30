@@ -4,5 +4,5 @@
 
 For what to do, see the [`../instructions/`](../instructions/) directory, specifically: 
 
-* [Design Brief](`../instructions/project-design-brief.pdf`)
+* [Design Brief](../instructions/project-design-brief.pdf)
 * [Project Proposal Requirements](../instructions/p01-proposal-requirements.md)

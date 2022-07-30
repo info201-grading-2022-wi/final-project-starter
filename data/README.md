@@ -2,13 +2,13 @@
 
 In our project, we use the following data files and Application Programming Interfaces:
 
-### Data files (TODO: Update/delete)
+### Data files (TODO: Update/delete for your PROJECT)
 |Data File Name | Brief Description|
 |---------------| -----------------|
 |[example.cvs](./example.csv) | This file contains temperature data. (See report for details.)
 |[another-file](./filename2.csv) | Description ... 
 
-### Application Programming Interfaces (API) (TODO: Update/delete)
+### Application Programming Interfaces (API) (TODO: Update/delete for your PROJECT)
 
 * **New York Times Books API**. The _New York Times_ provides data for Best
 Sellers lists and the books that have been reviewed in the New York Times. An overview of the API that we use in our project is available here: [Books API](https://developer.nytimes.com/docs/books-product/1/overview). For more about developing apps with New York Times data see: [NYTimes Developers](https://developer.nytimes.com/).

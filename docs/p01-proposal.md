@@ -5,8 +5,10 @@
 For what to do, read: 
 
 * [`../instructions/project-design-brief.pdf`](Design Brief)
-* [`../instructions/p`](Project Proposal Requirements)
+* [Project Proposal Requirements](../instructions/p01-proposal-requirements.md) )
 
+
+p01-proposal-requirements.md
 
 ## Developer Notes
 
